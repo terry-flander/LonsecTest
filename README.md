@@ -11,8 +11,8 @@ Please download and read Outperformance Report - Introduction.pdf for a descript
 ## Quick start
 Install
 * Download from github
-* Unpack in working directory
-* cd to <work>/LonsecTest-master/Lonsec
+* Unpack in work directory
+* cd to &lt;work&gt;/LonsecTest-master/Lonsec
 
 Build
 * mvn clean package
@@ -22,5 +22,5 @@ Run
 
 This will run the OutperformanceReport main class and produce an output CSV the target directory using the provided test files. All test files and the output file will be located in:
 
-<work>/LonsecTest-master/Lonsec/target/classes/TestData
+&lt;work&gt;/LonsecTest-master/Lonsec/target/classes/TestData
 
